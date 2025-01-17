@@ -1,0 +1,7 @@
+https://ec2-3-142-238-105.us-east-2.compute.amazonaws.com/hw12/contact.html
+
+above is the url for the contact 
+
+https://ec2-3-142-238-105.us-east-2.compute.amazonaws.com/hw12/results.php?firstname=wwwww&lastname=wwwwwwwwwww&email=wwww%40gamil.com&phonenumber=1234567892&username=wwwwwwwww&password=wwwwwwwwwwww&comments=wwwwww
+
+above is an exaple url for results that just has place holder data 
